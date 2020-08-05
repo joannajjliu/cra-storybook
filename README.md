@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## References
 
-[storybook and create react app set-up](https://fathomtech.io/blog/create-a-react-component-library-using-create-react-app/)
-[storybook configuration](https://www.learnstorybook.com/intro-to-storybook/react/en/simple-component/)
+- [storybook and create react app set-up](https://fathomtech.io/blog/create-a-react-component-library-using-create-react-app/)
+- [storybook configuration](https://www.learnstorybook.com/intro-to-storybook/react/en/simple-component/)
 
 ### Instructions
 
@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### Publish your library:
 
-- In package.json file, change "name" field to a unique npm library value
+- In package.json file, change "name" field to a unique npm library name
 - Create a npm account if you haven't already
 - run `npm publish` to publish your library (from the dist folder) to npm
   - May prompt you to log in
